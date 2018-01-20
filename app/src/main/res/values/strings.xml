@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeSetTest</string>
+    <string name="start">Start TimeSet Service</string>
+    <string name="stop">Stop TimeSet Service</string>
+    <string name="bind">Bind Service</string>
+    <string name="unbind">Unbind Service</string>
+</resources>
